@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0322-coin-change](https://github.com/Gitanshika/Leetcode/tree/main/0322-coin-change/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Gitanshika/Leetcode/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
+| [0494-target-sum](https://github.com/Gitanshika/Leetcode/tree/main/0494-target-sum/) | Medium |
 | [1049-last-stone-weight-ii](https://github.com/Gitanshika/Leetcode/tree/main/1049-last-stone-weight-ii/) | Medium |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Gitanshika/Leetcode/tree/main/2915-length-of-the-longest-subsequence-that-sums-to-target/) | Medium |
 ## Math
@@ -22,17 +23,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0322-coin-change](https://github.com/Gitanshika/Leetcode/tree/main/0322-coin-change/) | Medium |
+| [0494-target-sum](https://github.com/Gitanshika/Leetcode/tree/main/0494-target-sum/) | Medium |
 | [1049-last-stone-weight-ii](https://github.com/Gitanshika/Leetcode/tree/main/1049-last-stone-weight-ii/) | Medium |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Gitanshika/Leetcode/tree/main/2915-length-of-the-longest-subsequence-that-sums-to-target/) | Medium |
 ## Knapsack Problem
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0322-coin-change](https://github.com/Gitanshika/Leetcode/tree/main/0322-coin-change/) | Medium |
+| [0494-target-sum](https://github.com/Gitanshika/Leetcode/tree/main/0494-target-sum/) | Medium |
 | [1049-last-stone-weight-ii](https://github.com/Gitanshika/Leetcode/tree/main/1049-last-stone-weight-ii/) | Medium |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Gitanshika/Leetcode/tree/main/2915-length-of-the-longest-subsequence-that-sums-to-target/) | Medium |
 ## 0-1 Knapsack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0494-target-sum](https://github.com/Gitanshika/Leetcode/tree/main/0494-target-sum/) | Medium |
 | [1049-last-stone-weight-ii](https://github.com/Gitanshika/Leetcode/tree/main/1049-last-stone-weight-ii/) | Medium |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Gitanshika/Leetcode/tree/main/2915-length-of-the-longest-subsequence-that-sums-to-target/) | Medium |
 ## Breadth-First Search
@@ -43,4 +47,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0322-coin-change](https://github.com/Gitanshika/Leetcode/tree/main/0322-coin-change/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0494-target-sum](https://github.com/Gitanshika/Leetcode/tree/main/0494-target-sum/) | Medium |
 <!---LeetCode Topics End-->
