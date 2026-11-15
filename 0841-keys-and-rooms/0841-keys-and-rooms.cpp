@@ -24,7 +24,7 @@ public:
         int n = rooms.size();
 
         vector<int> visited(n, 0);
-
+        visited[0]=1;
         bfs(0, rooms, visited);
 
         for(int i = 0; i < n; i++) {
