@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0200-number-of-islands](https://github.com/Gitanshika/Leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0322-coin-change](https://github.com/Gitanshika/Leetcode/tree/main/0322-coin-change/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Gitanshika/Leetcode/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0494-target-sum](https://github.com/Gitanshika/Leetcode/tree/main/0494-target-sum/) | Medium |
@@ -42,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0200-number-of-islands](https://github.com/Gitanshika/Leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0322-coin-change](https://github.com/Gitanshika/Leetcode/tree/main/0322-coin-change/) | Medium |
 | [0547-number-of-provinces](https://github.com/Gitanshika/Leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0841-keys-and-rooms](https://github.com/Gitanshika/Leetcode/tree/main/0841-keys-and-rooms/) | Medium |
@@ -57,12 +59,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0200-number-of-islands](https://github.com/Gitanshika/Leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/Gitanshika/Leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0841-keys-and-rooms](https://github.com/Gitanshika/Leetcode/tree/main/0841-keys-and-rooms/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/Gitanshika/Leetcode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0200-number-of-islands](https://github.com/Gitanshika/Leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/Gitanshika/Leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/Gitanshika/Leetcode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Graph Theory
@@ -71,4 +75,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0547-number-of-provinces](https://github.com/Gitanshika/Leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0841-keys-and-rooms](https://github.com/Gitanshika/Leetcode/tree/main/0841-keys-and-rooms/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/Gitanshika/Leetcode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0200-number-of-islands](https://github.com/Gitanshika/Leetcode/tree/main/0200-number-of-islands/) | Medium |
 <!---LeetCode Topics End-->
