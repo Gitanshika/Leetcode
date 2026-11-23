@@ -11,7 +11,7 @@ public:
             for(auto it:rooms[node]){
                 if(!vis[it]){
                     vis[it]=1;
-                    bfs(it,vis,rooms);
+                    q.push(it);
                 }
             }
 
